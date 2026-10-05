@@ -1,0 +1,6 @@
+{
+  "name": "FinLit MOMENT",
+  "description": "Pause. Understand. Decide. AI-powered financial decision-support layer for retail investors at the critical moment of SIP pause or reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
